@@ -8,6 +8,9 @@ table,td,tr{
 .right{
 	text-align:right
 }
+.center{
+	text-align:center
+}
 #t-image{
 	text-align:center
 }
