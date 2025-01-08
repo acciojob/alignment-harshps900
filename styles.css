@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+table,td,tr{
+	border: 1px solid black;
+	width:100%;
+	height:15px;
+	table-layout:fixed
+}
+.right{
+	text-align:right
+}
+#t-image{
+	text-align:center
+}
